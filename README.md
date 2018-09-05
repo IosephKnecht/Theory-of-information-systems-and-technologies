@@ -2,4 +2,4 @@
 
 Первая лабораторная работа | Вторая лабораторная работы | Третья лабораторная работа
 ------------ | ------------- | -------------
-Topological and characters system | SystemOfDocuments | WarehouseModel
+Topological and characters system | SystemOfDocuments | buffer streams
